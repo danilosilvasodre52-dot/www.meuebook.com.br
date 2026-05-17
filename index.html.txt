@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nome do Seu E-book - Transforme sua Vida</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <div class="hero-text">
+                <span class="tag">Lançamento Exclusivo</span>
+                <h1>Descubra o Método Definitivo para Alcançar Seus Objetivos</h1>
+                <p>Aprenda o passo a passo prático para dominar esta habilidade sem perder tempo com teorias complexas.</p>
+                <a href="#comprar" class="btn-primary">Quero Garantir Meu E-book</a>
+            </div>
+            <div class="hero-image">
+                <img src="https://via.placeholder.com/350x500" alt="Capa do E-book">
+            </div>
+        </div>
+    </header>
+
+    <section class="beneficios">
+        <div class="container text-center">
+            <h2>O que você vai encontrar neste E-book?</h2>
+            <div class="grid-beneficios">
+                <div class="card">
+                    <h3>Conteúdo Direto ao Ponto</h3>
+                    <p>Sem enrolação. Técnicas validadas que você pode aplicar ainda hoje.</p>
+                </div>
+                <div class="card">
+                    <h3>Bônus Exclusivos</h3>
+                    <p>Planilhas e checklists para acelerar os seus resultados.</p>
+                </div>
+                <div class="card">
+                    <h3>Acesso Vitalício</h3>
+                    <p>Leia no seu celular, tablet ou computador, quando e onde quiser.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="comprar" class="cta">
+        <div class="container text-center">
+            <h2>Pronto para começar a mudança?</h2>
+            <p class="preco-antigo">De R$ 97,00</p>
+            <p class="preco-novo">Por apenas <span>R$ 47,00</span></p>
+            <p class="小-text">Ou em até 5x no cartão</p>
+            <a href="#" class="btn-checkout">Comprar Agora com Segurança</a>
+            <p class="garantia">🛡️ Garantia incondicional de 7 dias</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container text-center">
+            <p>&copy; 2026 Seu Nome ou Marca. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
